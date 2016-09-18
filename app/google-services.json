@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "371215961999",
+    "firebase_url": "https://databaseexample-28570.firebaseio.com",
+    "project_id": "databaseexample-28570",
+    "storage_bucket": "databaseexample-28570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371215961999:android:c618e87d40c42ad2",
+        "android_client_info": {
+          "package_name": "com.chase.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371215961999-hg7ntau225m1m5ne2s7k28agaltc1ffu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooc0oTMVghezZjY3SCfXlM-0x4nV5PIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371215961999:android:ecec217566a6ad40",
+        "android_client_info": {
+          "package_name": "com.chase.firebasedatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371215961999-hg7ntau225m1m5ne2s7k28agaltc1ffu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooc0oTMVghezZjY3SCfXlM-0x4nV5PIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
